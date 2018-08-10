@@ -11,6 +11,7 @@ public class JFXConsole
 	
 	public void initConsole()
 	{
+		//ADDED THIS COMMENT TO TEST SYNC.
 		System.out.println("Initializing Console: " + this.getClass().getName());
 	}
 }
