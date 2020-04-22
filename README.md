@@ -1,3 +1,3 @@
 # repo
-Dezman Repository to share projects.
+Dezman's Repository to share projects.
 
